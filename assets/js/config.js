@@ -7,7 +7,7 @@
    ============================================================ */
 
 window.NOOR_CONFIG = {
-  whatsappNumber: "919999999999",
-  whatsappDisplay: "+91 99999 99999",
+  whatsappNumber: "916376561363",
+  whatsappDisplay: "+91 63765 61363",
   businessName: "Noor Jewels"
 };
